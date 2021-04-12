@@ -28,14 +28,8 @@
 
 ## Visualizations
 
-[pewlett-hackard.ipynb](EmployeeSQL/pewlett-hackard.ipynb) contains a script to connect to the Postgres database and import SQL query output into dataframes to create the following visualizations:
-
-
-
-**A histogram to visualize the most common salary ranges for employees:**
+[pewlett-hackard.ipynb](EmployeeSQL/pewlett-hackard.ipynb) contains a script to connect to the Postgres database and create dataframes and plots from sql queries.
 
 !['histogram of salary ranges'](EmployeeSQL/images/salaries_hist.png)
-
-**A bar chart of average salary by title:**
 
 !['average salary by title'](EmployeeSQL/images/average_salaries.png)
