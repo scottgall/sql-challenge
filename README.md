@@ -28,7 +28,7 @@
 
 ## Visualizations
 
-[pewlett-hackard.ipynb](EmployeeSQL/pewlett-hackard.ipynb) contains a script to connect to the Postgres database and create dataframes and plots from sql queries.
+[pewlett-hackard.ipynb](EmployeeSQL/pewlett-hackard.ipynb) contains a script to connect to the Postgres database using [Psycopg](https://www.psycopg.org/) and create dataframes and plots from sql queries.
 
 !['histogram of salary ranges'](EmployeeSQL/images/salaries_hist.png)
 
